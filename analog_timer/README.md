@@ -39,4 +39,4 @@ To start the timer call the `START_METERING` macro. Likewise to stop the time ca
 
 ![analog_timer_cad_screenshot](analog_timer_cad_screenshot.png)
 
-![analog_timer_voron_2_4_300](voron_2_4_300_skirt.png)
+![analog_timer_voron_2_4_300](voron_2_4_300_skirt.jpg)
